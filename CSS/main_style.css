@@ -148,7 +148,7 @@ a {
 .overlay {
     width: 1900px;
 
-    background-image: url(/IMG/Layer\ 15.png);
+    background-image: url(IMG/Layer\ 15.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -161,7 +161,7 @@ a {
     width: 1900px;
 
 
-    background: url(/IMG/Overlay.png);
+    background: url(IMG/Overlay.png);
 
     background-repeat: no-repeat;
     background-position: center;
@@ -440,7 +440,7 @@ a {
 }
 
 .sec-5-bg {
-    background: url(/IMG/bg_footer.png);
+    background: url(IMG/bg_footer.png);
     background-repeat: no-repeat;
     background-position: center top;
     background-size: cover;
